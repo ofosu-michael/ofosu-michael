@@ -6,7 +6,7 @@
   <p><b>Founder of Ace TechTrove · App Developer · Quant Trader · Fitness Coach</b></p>
 
   <p>
-    <a href="https://michaelofosu.vercel.app"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=web&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://michaelofosu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=web&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/ofosumichael/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://x.com/michael_ofosu_"><img src="https://img.shields.io/badge/@michael__ofosu__-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
     <a href="https://acetechtrove.vercel.app"><img src="https://img.shields.io/badge/Ace%20TechTrove-5C2D91?style=flat-square&logoColor=white" alt="Ace TechTrove" /></a>
