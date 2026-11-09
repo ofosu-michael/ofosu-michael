@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="200" src="cover.png"  />
+  <img height="200" src="cover1.png"  />
 </div>
 
 ###
