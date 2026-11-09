@@ -17,14 +17,13 @@
 
 I build apps people actually enjoy using. I run **[Ace TechTrove](https://acetechtrove.vercel.app)**, an independent product studio, while studying Information Systems. Outside of code, I backtest trading strategies and coach clients in the gym. Same idea everywhere: build a solid foundation, then ship real results.
 
-## 🧠 What I'm up to
+## What I'm up to
 
-- 🛠️ **Ace TechTrove** — Founder & CEO, designing and shipping web and mobile products end to end
-- 📈 **Algorithmic trading** — building and backtesting custom indicators in Pine Script, plus quantitative analysis
-- 🏋🏽 **Coaching** — helping people get stronger, one program at a time
-- 🌱 **Currently learning** — _add what you're exploring right now_
+- **Ace TechTrove** — Founder & CEO, designing and shipping web and mobile products end to end
+- **Algorithmic trading** — building and backtesting custom indicators in Pine Script, plus quantitative analysis
+- **Coaching** — helping people get stronger, one program at a time
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 <br/>
